@@ -1,0 +1,1 @@
+'AIMarketHeatPredictor_v2.mq5' file content here with detailed implementation and structure for the indicator.
